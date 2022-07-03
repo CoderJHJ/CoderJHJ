@@ -1,33 +1,32 @@
- <h1 align="center">Hi 👋, I'm Jahid Hasan Jewel</h1>
-<h3 align="center">A passionate Mobile & Web Application developer from Bangladesh since 2020.</h3>
+ ![Web Developer and App Developer]( https://scontent.fcgp6-1.fna.fbcdn.net/v/t39.30808-6/278994012_1636217066732212_1716316485877861295_n.jpg?stp=dst-jpg_p960x960&_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=1zdyGTILyQAAX9Ww3oO&_nc_ht=scontent.fcgp6-1.fna&oh=00_AT8E62AT8MQCW7pZ2cvicx1B2dybVrbTAGqMjumSLxpE_A&oe=62C7C97B)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderjhj&label=Profile%20views&color=0e75b6&style=flat" alt="coderjhj" /> </p>
+### Hi there 👋, I'm J H Jewel
+#### Web Developer and App Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderjhj" alt="coderjhj" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/jeweladnan6" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/jeweladnan6?logo=twitter&style=for-the-badge" alt="https://twitter.com/jeweladnan6" /></a> </p>
+ I am a Web and App developer who is passionate about making 
+error-free websites and apps with 100% client satisfaction . I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic goal-oriented and always work with an end goal in mind. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work in Web Development but some technologies I enjoy working with include Flutter, WordPress, React, CodeIgniter, JavaScript, as well as PHP.
 
-- 🔭 I’m currently working on **Chittagong City**
+Skills:  FLUTTER / JS / HTML / CSS/PHP/MySQL /CODEIGNITER/REACT
 
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning React 
+- 👯 I’m looking to collaborate on github 
+- 💬 Ask me about Web Development and App Development  
 
-- 💬 Ask me about **Web Development and App Development**
 
-- 📫 How to reach me **jahidhossainjewel44@gmail.com**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CoderJHJ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://l.facebook.com/l.php?u=https%3A%2F%2Flinkedin.com%2Fin%2Fjahid-hasan-jewel%3Ffbclid%3DIwAR1hKW51XEAGMjJqUhT22mQ7sGA8lObcMm-rI8sa8v7e4LWOCR5YWnfvy38&h=AT17-xWa0MyaqdN-IgUn-vZKEMU21JKZ9h2L_WZPBewg7F7YEoEeiQYHu8_Jqb_3PLA3m0fjdLoCQuW0728h-jEhNuQGB62QpCeCo1mG21yZnV2S7N-iML_mJRwM_X1qScNc/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Jahid_Hasan_Jewel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fjewel_____adnan%3Ffbclid%3DIwAR1UU0NJAjEz7rsDUu3-fVTBOZrFVVlJzi9ovVYYyEXZvVLZJqxlJyGbHX4&h=AT2rHNRBiQehIurn1ezkU0BXCzgSnQPXuWFgcg0ysBhowkn1CntOtFb-1p9vtfFjw3AwYyVrCgo00Xl5QoNX8dvc_R76d23pJ0_8Rf02ctIITpdlOesES2RyHsp9j1Kl19xA/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/JewelAdnan6)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/jeweladnan6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/jeweladnan6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://l.facebook.com/l.php?u=https%3a%2f%2flinkedin.com%2fin%2fjahid-hasan-jewel%3ffbclid%3diwar1hkw51xeagmjjquht22mq7sga8lobcmm-ri8sa8v7e4lwocr5ywnfvy38&h=at17-xwa0myaqdn-igun-vzkemu21jkz9h2l_wzpbewg7f7yeoeeiqyhu8_jqb_3pla3m0fjdlocquw0728h-jehnuqgb62qpceco1mg21yznv2s7n-iml_mjrwm_x1qscnc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://l.facebook.com/l.php?u=https%3a%2f%2flinkedin.com%2fin%2fjahid-hasan-jewel%3ffbclid%3diwar1hkw51xeagmjjquht22mq7sga8lobcmm-ri8sa8v7e4lwocr5ywnfvy38&h=at17-xwa0myaqdn-igun-vzkemu21jkz9h2l_wzpbewg7f7yeoeeiqyhu8_jqb_3pla3m0fjdlocquw0728h-jehnuqgb62qpceco1mg21yznv2s7n-iml_mjrwm_x1qscnc" height="30" width="40" /></a>
-<a href="https://fb.com/jahid hasan jewel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jahid hasan jewel" height="30" width="40" /></a>
-<a href="https://instagram.com/https://l.facebook.com/l.php?u=https%3a%2f%2fwww.instagram.com%2fjewel_____adnan%3ffbclid%3diwar1uu0njajez7rsduu3-fvtbozrfvvljzi9ovvyyyexzvvlzjqxljygbhx4&h=at2rhnrbiqehiurn1ezku0bxczgsnqpxuwfgcg0ysbhowkn1cntotfb-1p9vtffjw3awyyvrcgo00xl5qonx8dvc_r76d23pj0_8rf02ctiitpdloeses2ryhsp9j1kl19xa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://l.facebook.com/l.php?u=https%3a%2f%2fwww.instagram.com%2fjewel_____adnan%3ffbclid%3diwar1uu0njajez7rsduu3-fvtbozrfvvljzi9ovvyyyexzvvlzjqxljygbhx4&h=at2rhnrbiqehiurn1ezku0bxczgsnqpxuwfgcg0ysbhowkn1cntotfb-1p9vtffjw3awyyvrcgo00xl5qonx8dvc_r76d23pj0_8rf02ctiitpdloeses2ryhsp9j1kl19xa" height="30" width="40" /></a>
-</p>
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=CoderJHJ)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderjhj&show_icons=true&locale=en&layout=compact" alt="coderjhj" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderJHJ)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderjhj&show_icons=true&locale=en" alt="coderjhj" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderJHJ&show_icons=true&count_private=true)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderjhj&" alt="coderjhj" /></p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CoderJHJ)  
+
+![GitHub metrics](https://metrics.lecoq.io/CoderJHJ)  
+
+![Profile views](https://gpvc.arturio.dev/CoderJHJ)  
